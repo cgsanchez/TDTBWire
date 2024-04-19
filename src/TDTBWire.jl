@@ -1,5 +1,7 @@
 module TDTBWire
 
-greet() = print("Hello World!")
+export HBAR 
+
+
 
 end # module
